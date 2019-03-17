@@ -1,0 +1,15 @@
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\bin\Release\piano.exe
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\bin\Release\piano.pdb
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\bin\Release\piano.xml
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\ResolveAssemblyReference.cache
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\WindowsApplication1.Form1.resources
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\WindowsApplication1.Form3.resources
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\WindowsApplication1.Resources.resources
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\piano.vbproj.GenerateResource.Cache
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\piano.exe
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\piano.xml
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\piano.pdb
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\bin\Release\piano.exe.manifest
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\bin\Release\piano.application
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\piano.exe.manifest
+C:\Users\ANKIT\Documents\Visual Studio 2008\Projects\piano\piano\obj\Release\piano.application
